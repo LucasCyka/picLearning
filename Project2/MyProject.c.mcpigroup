@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=SevenSegControlCounter.mcppi
+Project1=..\Exercicios3\MyProject.mcppi
+[ActiveProject]
+Index=1

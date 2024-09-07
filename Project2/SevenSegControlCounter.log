@@ -1,11 +1,11 @@
 0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"C:\users\Public\Documents\MikroCProjects\Project2\SevenSegControlCounter.mcppi" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\users\Public\Documents\MikroCProjects\Project2\" -IP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "main.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
 hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
 diagnostics: 0	122	Compilation Started	main.c
-diagnostics: 52	123	Compiled Successfully	main.c
-diagnostics: 0	127	All files Compiled in 185 ms	 
-hint: 0	1144	Used RAM (bytes): 14 (1%)  Free RAM (bytes): 2013 (99%)	Used RAM (bytes): 14 (1%)  Free RAM (bytes): 2013 (99%)
-hint: 0	1144	Used ROM (bytes): 346 (1%)  Free ROM (bytes): 32422 (99%)	Used ROM (bytes): 346 (1%)  Free ROM (bytes): 32422 (99%)
+diagnostics: 61	123	Compiled Successfully	main.c
+diagnostics: 0	127	All files Compiled in 190 ms	 
+hint: 0	1144	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 2011 (99%)	Used RAM (bytes): 16 (1%)  Free RAM (bytes): 2011 (99%)
+hint: 0	1144	Used ROM (bytes): 416 (1%)  Free ROM (bytes): 32352 (99%)	Used ROM (bytes): 416 (1%)  Free ROM (bytes): 32352 (99%)
 diagnostics: 0	125	Project Linked Successfully	SevenSegControlCounter.mcppi
-diagnostics: 0	128	Linked in 36 ms	 
-diagnostics: 0	129	Project 'SevenSegControlCounter.mcppi' completed: 259 ms	 
-diagnostics: 0	103	Finished successfully: 31 ago. 2024, 16:28:01	SevenSegControlCounter.mcppi
+diagnostics: 0	128	Linked in 34 ms	 
+diagnostics: 0	129	Project 'SevenSegControlCounter.mcppi' completed: 264 ms	 
+diagnostics: 0	103	Finished successfully: 02 set. 2024, 18:02:10	SevenSegControlCounter.mcppi

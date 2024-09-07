@@ -523,7 +523,6 @@ idlen_bit
 indf0
 indf1
 indf2
-init_interrupt
 int0
 int0_bit
 int0e
@@ -572,7 +571,6 @@ intedg1
 intedg1_bit
 intedg2
 intedg2_bit
-interrupt
 intsrc
 intsrc_bit
 iofs
@@ -689,7 +687,6 @@ lvv2_bit
 lvv3
 lvv3_bit
 main
-modifier
 mul_16x16_s
 mul_16x16_u
 mul_32x32_fp
@@ -728,8 +725,6 @@ not_write
 not_write_bit
 nrm3232
 nrm4032
-num
-numcodes
 oerr
 oerr_bit
 oespp
@@ -845,7 +840,6 @@ pr2
 preinc0
 preinc1
 preinc2
-pressed
 prod
 prodh
 prodl

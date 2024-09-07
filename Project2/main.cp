@@ -4,6 +4,7 @@ void init_interrupt();
 int modifier = -1;
 int num = 0;
 char numCodes[10] = {63,6,91,79,102,109,125,7,127,103};
+int pressed = 0;
 
 void main() {
 
@@ -17,6 +18,7 @@ void main() {
 
 
  for(;;){
+
  num += modifier;
  if(num == -1) {num = 9;}
  else if(num == 10){num = 0;}
@@ -45,9 +47,16 @@ void init_interrupt(){
 }
 
 void interrupt(){
- INTCON.INT0IF = 0;
+ if(INTCON.INT0IF && pressed == 0){
+ pressed = 1;
+ delay_ms(100);
 
  modifier *= -1;
+ pressed = 0;
+ INTCON.INT0IF = 0;
+
+ }
+
 
 
 }
