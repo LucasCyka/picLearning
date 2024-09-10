@@ -335,6 +335,7 @@ eeip
 eeip_bit
 eepgd
 eepgd_bit
+enable_pulse
 endp0
 endp0_bit
 endp1
@@ -520,10 +521,11 @@ idleif
 idleif_bit
 idlen
 idlen_bit
+index
 indf0
 indf1
 indf2
-init_interrupt
+init_lcd
 int0
 int0_bit
 int0e
@@ -572,7 +574,6 @@ intedg1
 intedg1_bit
 intedg2
 intedg2_bit
-interrupt
 intsrc
 intsrc_bit
 iofs
@@ -695,6 +696,7 @@ mul_32x32_fp
 mul_32x32_s
 mul_32x32_u
 mul_8x8_s
+myword
 n
 n_bit
 not_a
@@ -1425,6 +1427,7 @@ wren
 wren_bit
 wrerr
 wrerr_bit
+write_lcd
 wrspp
 wrspp_bit
 ws0

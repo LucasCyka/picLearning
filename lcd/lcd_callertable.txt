@@ -1,0 +1,6 @@
+main
+	__CC2DW
+	init_lcd
+		enable_pulse
+	write_lcd
+		enable_pulse

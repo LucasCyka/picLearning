@@ -523,7 +523,6 @@ idlen_bit
 indf0
 indf1
 indf2
-init_interrupt
 int0
 int0_bit
 int0e
@@ -572,7 +571,6 @@ intedg1
 intedg1_bit
 intedg2
 intedg2_bit
-interrupt
 intsrc
 intsrc_bit
 iofs
