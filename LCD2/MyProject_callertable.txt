@@ -1,0 +1,16 @@
+main
+	__CC2DW
+	init_lcd
+		enable_pulse
+		enableCursor
+			enable_pulse
+		clear
+			enable_pulse
+		cursorHome
+			enable_pulse
+	writeLCD
+		enable_pulse
+	clear
+		enable_pulse
+	cursorHome
+		enable_pulse
