@@ -12,6 +12,7 @@ void writeLCD(char value[16]);
 
 void main() {
  unsigned char seconds[3];
+ unsigned char minutes[3];
  TRISE &= 248;
  TRISD = 0;
  LATE = 0;

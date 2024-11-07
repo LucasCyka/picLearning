@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\senaiLCD\SenaiLCD.mcppi
+Project1=TEsting.mcppi
+[ActiveProject]
+Index=0

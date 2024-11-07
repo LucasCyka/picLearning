@@ -1,0 +1,7 @@
+main
+	__CC2DW
+	init_lcd
+		lcd_command
+			lcd_enable_pulse
+	lcd_print
+		lcd_enable_pulse
