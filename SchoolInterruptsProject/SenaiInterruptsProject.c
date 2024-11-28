@@ -1,13 +1,3 @@
-/***********************************************************
-*                                                          *
-*    Aluno:       Lucas Santos                             *
-*    Professor:   Paulo Y.                                 *
-*    Escola:      Senai "Anchieta"                         *
-*    Assunto:     interruptores, conversor AD e LCD.       *
-*    Data:        18/11/2024                               *
-*                                                          *
-************************************************************/
-
 #define RED            2
 #define GREEN          4
 #define BLUE           8
