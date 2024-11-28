@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo20 -N"C:\users\Public\Documents\MikroCProjects\taco2\tacometro2.mcppi" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\users\Public\Documents\MikroCProjects\taco2\" -IP"C:\users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "tacometro2.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	tacometro2.c
+diagnostics: 106	123	Compiled Successfully	tacometro2.c
+diagnostics: 0	127	All files Compiled in 160 ms	 
+hint: 0	1144	Used RAM (bytes): 27 (1%)  Free RAM (bytes): 2000 (99%)	Used RAM (bytes): 27 (1%)  Free RAM (bytes): 2000 (99%)
+hint: 0	1144	Used ROM (bytes): 1098 (3%)  Free ROM (bytes): 31670 (97%)	Used ROM (bytes): 1098 (3%)  Free ROM (bytes): 31670 (97%)
+diagnostics: 0	125	Project Linked Successfully	tacometro2.mcppi
+diagnostics: 0	128	Linked in 48 ms	 
+diagnostics: 0	129	Project 'tacometro2.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 28 nov. 2024, 19:00:41	tacometro2.mcppi
